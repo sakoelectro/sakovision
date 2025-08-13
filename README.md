@@ -1,2 +1,0 @@
-# sakovision
-vision du monde
